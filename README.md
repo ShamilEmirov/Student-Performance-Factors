@@ -67,19 +67,19 @@ The workflow includes data preprocessing, exploratory data analysis (EDA), featu
 
 ## Correlation Heatmap
 
-<img src="images/correlation_heatmap.png" width="750">
+<img src="correlation_heatmap.png" width="750">
 
 ---
 
 ## XGBoost Feature Importance
 
-<img src="images/xgboost_feature_importance.png" width="750">
+<img src="xgboost_feature_importance.png" width="750">
 
 ---
 
 ## LightGBM Feature Importance
 
-<img src="images/lightgbm_feature_importance.png" width="750">
+<img src="lightgbm_feature_importance.png" width="750">
 
 ---
 
