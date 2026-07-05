@@ -79,7 +79,7 @@ The workflow includes data preprocessing, exploratory data analysis (EDA), featu
 
 ## LightGBM Feature Importance
 
-<img src="lightgbm_feature_importance.png" width="750">
+<img src="lighgbm_feature_importance.png" width="750">
 
 ---
 
